@@ -9,14 +9,13 @@ body {
 }
 .container {
     background-color: black;
-    
-    display: inline-block;
-    margin: auto;
+    margin: auto ;
+    display: block;
+    width: fit-content;
     margin-top: 10%;
     border-radius: 5px;
     padding: 2px;
-    /* width: 31%; */
-    /* display: inline-block; */
+    
   
 }
 button {
