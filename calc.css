@@ -1,0 +1,45 @@
+body {
+    background-color: blanchedalmond;
+    
+}
+.screen {
+    margin: 2px;
+    direction: rtl;
+    height: 40px;
+}
+.container {
+    background-color: black;
+    
+    display: inline-block;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 5px;
+    padding: 2px;
+    /* width: 31%; */
+    /* display: inline-block; */
+  
+}
+button {
+    width: 110px;
+    height: 30px;
+    margin: 2px 2px 2px 2px; 
+    background-color: black;
+    color: aliceblue;
+    text-decoration: none;
+    border: none;
+    
+}
+.screen,
+.ac,
+.ll,
+.percentage {
+    background-color: rgb(62, 62, 62);
+  }
+.plus,
+.minus,
+.equel,
+.multiply,
+.divided {
+    background-color:orange;
+    /* margin-right: 2px; */
+ }
